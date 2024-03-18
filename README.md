@@ -3,6 +3,9 @@
 
 In this data analytics project, I delved into the Amazon Movie and TV Shows dataset to uncover insights and trends within the entertainment industry. Through a comprehensive analysis comprising over 50 queries, I conducted extensive data exploration to gain a deeper understanding of the dataset and provide valuable insights into various aspects of the movies and TV shows available on Amazon.
 
+The two tables that I used were the titles and the credits table.
+The titles table had attributes like the title of the show, imdb ratings, production country, imdb votes, age certification of the show. Whereas the credits table included attribute like the names of the actors, their character names in the movies etc. I got a chance to perform a wide range of SQL queries using different SQL techniques like the CTE function, Aggregation using Group By and many more.
+
 **Key Objectives:**
 
 Data Exploration: I embarked on a journey of data exploration to uncover patterns, trends, and correlations within the Amazon Movie and TV Shows dataset.
